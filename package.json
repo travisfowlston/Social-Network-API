@@ -1,0 +1,12 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "This repository contains all work related to the Module 18 Challenge for the UC Davis Coding Bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
